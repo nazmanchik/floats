@@ -1,7 +1,7 @@
 *{
-	margin:0;
-	padding: 0;
-	box-sizing: border-box;
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
 }
 
 .menu {
@@ -10,32 +10,30 @@
 }
 
 .sidebar {
-	float:left;
-	//margin: 0 auto;
+  float:left;
+  margin: 0 auto;
   width: 200px;
   height: 300px;
   background-color: #F09A9D;    /* Red */
 }
 
 .content {
-	padding: 20px;
-	float: left;
-	width: 650px;
+  padding: 20px;
+  float: left;
+  width: 650px;
   height: 500px;
   background-color: #F5CF8E;    /* Yellow */
 }
 
 .footer {
-	clear: both;
+  clear: both;
   overflow: hidden;
   background-color: #D6E9FE;    /* Light blue */
 }
 
-.page{
-	
-	width: 900px;
-  	margin: 0 auto;
-  	
+.page{	
+  width: 900px;
+  margin: 0 auto;	
  } 	
 
 .container {
@@ -82,6 +80,6 @@ p {
 }
 
 .article-image {
-	width: 100px;
-	height: 100px;
+  width: 100px;
+  height: 100px;
 }
